@@ -12,7 +12,8 @@ any key not defined in the mode.
 For example, using the default key bindings, pressing <Leader><Leader>+ will
 enter "font size" mode and increase the font size by one.  Once in the mode,
 pressing the "+" key repeatedly will increase the font size by one for each
-additional press.
+additional press.  Additionally, a [count] may be provided to change the font size
+by larger increments.
 
 See documentation in doc/fontsize for installation and usage instructions.
 
